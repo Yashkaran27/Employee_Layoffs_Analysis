@@ -1,6 +1,7 @@
 # Employee_Layoffs_Analysis
 
 This data is collected from layoffs.fyi 
+
 The following details are included in the dataset:
 1) Company 2) Location 3) Industry 4) Total_laid_off 5) Percentage_laid_off 6) Stage ID 7) Country 8) Funds_raised
 
